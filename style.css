@@ -1,7 +1,7 @@
 .sahand{
   border: 2px solid Black;
-  width:250px;
-  height: 150px;
+  width:200px;
+  height: 100px;
   border-radius:30px;
   padding:0px;
   margin:0px;
@@ -17,5 +17,9 @@ body{
 input{
   border:2px solid #195190FF;
   border-radius: 25px;
+
+width:80px;
+  height: 40px;
+
   
 }
